@@ -12,10 +12,9 @@ export const Card: React.FC = ()=>{
            </S.divInfo>
            <S.divLinks>
                 <S.a href="https://github.com/Giliard-Silva248" target='_blank' rel='noreferrer'>GitHub</S.a>
-                <S.a href="https://www.frontendmentor.io/profile/Giliard-Silva248" target='_blank' rel='noreferrer'>Frontend Mentor</S.a>
                 <S.a href="https://www.linkedin.com/in/giliard-h-da-silva-72a331169/" target='_blank' rel='noreferrer'>LinkedIn</S.a>
-                <S.a href="/">Twitter</S.a>
-                <S.a href="/">Instagram</S.a>
+                <S.a href="https://www.instagram.com/giliard.hs/" target='_blank' rel='noreferrer'>Instagram</S.a>
+                <S.a href="mailto:ghssilva248@gmail.com" target='_blank' rel='noreferrer'>Email</S.a>
            </S.divLinks>
         </S.Container>
     )
