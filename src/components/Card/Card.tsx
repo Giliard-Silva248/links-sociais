@@ -13,7 +13,7 @@ export const Card: React.FC = ()=>{
            <S.divLinks>
                 <S.a href="https://github.com/Giliard-Silva248" target='_blank' rel='noreferrer'>GitHub</S.a>
                 <S.a href="https://www.linkedin.com/in/giliard-h-da-silva-72a331169/" target='_blank' rel='noreferrer'>LinkedIn</S.a>
-                <S.a href="https://www.instagram.com/giliard.hs/" target='_blank' rel='noreferrer'>Instagram</S.a>
+                <S.a href="https://giliardsilva-front-end.netlify.app/" target='_blank' rel='noreferrer'>Portfolio</S.a>
                 <S.a href="mailto:ghssilva248@gmail.com" target='_blank' rel='noreferrer'>Email</S.a>
                 <S.a href="https://giliardsilva.netlify.app/" target='_blank' rel='noreferrer'>LANDING PAGE / Orçamento</S.a>
            </S.divLinks>
